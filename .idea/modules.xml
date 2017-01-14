@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaRun/JavaRun.iml" filepath="$PROJECT_DIR$/JavaRun/JavaRun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyImageLoader/MyImageLoader.iml" filepath="$PROJECT_DIR$/MyImageLoader/MyImageLoader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SheJiMoshi.iml" filepath="$PROJECT_DIR$/SheJiMoshi.iml" />
+    </modules>
+  </component>
+</project>
